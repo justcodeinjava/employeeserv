@@ -1,6 +1,3 @@
-/home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/employeeentity/Employee.java
 /home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/employeeserv/EmployeeservApplication.java
-/home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/repository/EmployeeRepository.java
+/home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/employeeserv/dao/EmployeeEntity.java
 /home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/employeeserv/impl/EmployeeResourceImpl.java
-/home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/employeeentity/Address.java
-/home/sduraisa/Documents/Shobana/PaypalCodingInterview/employeeserv-master/employeeservImplementation/src/main/java/com/paypal/bfs/test/repository/AddressRepository.java

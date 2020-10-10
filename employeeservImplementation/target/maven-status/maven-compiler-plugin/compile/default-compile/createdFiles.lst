@@ -1,6 +1,3 @@
-com/paypal/bfs/test/employeeentity/Employee.class
-com/paypal/bfs/test/repository/EmployeeRepository.class
 com/paypal/bfs/test/employeeserv/impl/EmployeeResourceImpl.class
-com/paypal/bfs/test/employeeentity/Address.class
-com/paypal/bfs/test/repository/AddressRepository.class
 com/paypal/bfs/test/employeeserv/EmployeeservApplication.class
+com/paypal/bfs/test/employeeserv/dao/EmployeeEntity.class
